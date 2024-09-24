@@ -8,14 +8,13 @@ Data Science | AI | Computer Vision
 [![Static Badge](https://img.shields.io/badge/dockerhub-lx1201-blue)](https://hub.docker.com/u/lx1201)
 [![Static Badge](https://img.shields.io/badge/scholar-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=E2-0hTwAAAAJ&hl=en)
 
-👋 Hey there!
 I'm a physicist and Python developer with extensive experience building data analysis tools and numerical models. I've been hands-on with projects from start to finish – taking them from concept to launch.
 
-🔧 I’ve worked on all sorts of projects, coding up models and toolboxes for scientific computing. That means implementing some pretty complex algorithms, tracking real-time parameters, visualizing results clearly, and making sure everything is wrapped up in an intuitive, user-friendly interface.
+I’ve worked on all sorts of projects, coding up models and toolboxes for scientific computing. 
 
-👁️‍🗨️ Recently, I’ve been diving deep into computer vision, working on cool stuff like an AI-driven image classifiers and medical imaging project. It’s a field that combines my love for problem-solving and data-driven solutions.
+Recently, I’ve been diving deep into computer vision, working on an AI-driven image classifiers and medical imaging project. It’s a field that combines my love for problem-solving and data-driven solutions.
 
-🚀 I’m all about solving tough problems that have a real impact and love driving innovation with data. Always looking for exciting challenges to dive into!
+I’m all about solving tough problems that have a real impact and love driving innovation with data. Always looking for exciting challenges to dive into!
 
 
 Open Source Projects
