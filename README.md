@@ -1,8 +1,7 @@
 ## Lixian Wang
 Physicist | Python Developer | Ph.D. in Physics |
 Data Science | AI | Computer Vision
-[![An image of @lixianphys's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lixianphys)](https://holopin.io/@lixianphys)
-[![Static Badge](https://img.shields.io/badge/Website-lixianphwang-green)](http://lixianphwang.com/)
+[![Static Badge](https://img.shields.io/badge/Websit-green)](https://lixianphys.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lixianphys/)
 [![Static Badge](https://img.shields.io/badge/PyPi-lixianwang-orange)](https://pypi.org/user/lixianwang/)
 [![Static Badge](https://img.shields.io/badge/dockerhub-lx1201-blue)](https://hub.docker.com/u/lx1201)
