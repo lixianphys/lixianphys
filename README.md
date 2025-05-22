@@ -12,8 +12,6 @@ I'm a physicist and Python developer with extensive experience building data ana
 
 I’ve worked on all sorts of projects, coding up models and toolboxes for scientific computing. 
 
-Recently, I’ve been diving deep into computer vision, working on an AI-driven image classifiers and medical imaging project. It’s a field that combines my love for problem-solving and data-driven solutions.
-
 I’m all about solving tough problems that have a real impact and love driving innovation with data. Always looking for exciting challenges to dive into!
 
 
@@ -21,8 +19,8 @@ Open Source Projects
 
 | Title | Technologies | Short Introduction | Since |
 |:----------:|:----------:|:----------:|:----------:|
-| [Banking API](https://github.com/lixianphys/banking-api)|![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)| An internal banking API for basics | 2025
-| [MRIHelper](https://github.com/lixianphys/mrihelper)| ![Amazon Web Services](https://img.shields.io/badge/AWS-black?logo=amazonwebservices&logoColor=white)![Redis](https://img.shields.io/badge/Redis-black?logo=redis) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?logo=rabbitmq) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-black?logo=celery)![Docker](https://img.shields.io/badge/Docker-black?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)| MRI 3D Visulization and AI-Segmentation Web App ([**Try it Out**](https://167.71.58.79)) *Distributed,containerized*| 2025
+| [Banking API](https://github.com/lixianphys/banking-api)|![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?logo=sqlalchemy)| An internal banking API for basics | 2025
+| [MRIHelper](https://github.com/lixianphys/mrihelper)| ![S3](https://img.shields.io/badge/minio-black?logo=minio)![Redis](https://img.shields.io/badge/Redis-black?logo=redis) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?logo=rabbitmq) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-black?logo=celery)![Docker](https://img.shields.io/badge/Docker-black?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)| MRI 3D Visulization and AI-Segmentation Web App ([**Try it Out**](https://167.71.58.79)) *Distributed,containerized*| 2025
 | [MRImaster](https://github.com/lixianphys/MRImaster)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch) ![Amazon Web Services](https://img.shields.io/badge/AWS-black?logo=amazonwebservices&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) |  AI-supported medical imaging classifier | 2024 |
 | [CounterFusion](https://github.com/lixianphys/Counterfusion) [![Downloads](https://static.pepy.tech/badge/counterfusion)](https://pepy.tech/project/counterfusion)| ![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white) | Algorithms aiming at solving any interactions | 2024 |
 | [xkwant](https://github.com/lixianphys/xkwant) |![Kwant](https://img.shields.io/badge/Kwant-black)![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white) |Kwant toolbox with adaptable templates, parameter tracking, benchmarking tools| 2024 |
