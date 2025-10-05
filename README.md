@@ -5,12 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lixianphys/)
 [![Static Badge](https://img.shields.io/badge/scholar-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=E2-0hTwAAAAJ&hl=en)
 
-With my work in Physics paused indefinitely, I have entirely shifted my focus to the the tech field, strengthening my understanding of tech trends through project work and open-source contributions. My primary areas of study are backend (server) system, distributed systems with cloud integration, and asynchronous programming.
+With my work in physics paused indefinitely, I have entirely shifted my focus to the tech field, strengthening my understanding of tech trends through project work and open-source contributions. My primary areas of study are backend (server) system, distributed systems with cloud integration, and asynchronous programming.
 
 Below is a list of projects I have initiated and worked on. some are more refined or modern than others, but they all represent my effort and growth. The technologies I list are tools I've had the chance to use thoughtfully, not claim of proficiency.
 
-
-Open Source Projects
 
 | Title | Technologies | Short Introduction | Since |
 |:----------:|:----------:|:----------:|:----------:|
